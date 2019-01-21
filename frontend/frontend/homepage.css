@@ -1,0 +1,51 @@
+*{
+  border:0;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container {
+    background-image: url(homepage-background.png);
+    background-repeat: no-repeat;
+    background-size: 110%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-size: cover;
+    }
+
+    .card{
+      flex: 1 1 auto;
+      padding: 20px;
+      margin: 10px;
+      height: 800px;
+      width: 40px;
+      
+    }
+    header
+    {
+       color: whitesmoke; 
+       background-color: black; 
+       background-size: 100%;   
+       padding-top:15px;
+    }
+    footer
+    {
+      color: whitesmoke;
+      width: 100%;
+      text-align: center;
+      background-color: black; 
+      background-size: 100%;   
+    }
+    .foo>a{
+      color:whitesmoke;
+      text-decoration: none;
+    }
+    .hea>a{
+      color:whitesmoke;
+      text-decoration: none;
+      padding-left: 30px;
+      padding-right: 30px;
+      float:right;
+    }
