@@ -1,0 +1,49 @@
+label{
+    width:20%;
+    display: inline-block;
+}
+body {
+    background-image: url(index.jpeg);
+    background-repeat: no-repeat;
+    background-size: 300%;
+    }
+.container{
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+ margin-right: 10px;
+ margin-left: 180px;
+ width: 30%;
+ background-image: url(drib_blink_bot.gif);
+  background-repeat: no-repeat;
+  background-size: 240%;
+  background-position: center;
+}
+input, select {
+      padding: 8px 10px;
+      margin: 18px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    h1{
+        font-size: 4em;        
+    }
+    button {
+ background-color: #4CAF50;
+ color: white;
+ padding: 12px 20px;
+ padding-top:10px;
+ margin: 4px 0;
+ border: none;
+ cursor: pointer;
+ width: 20%;
+ }
+ .cancelbtn {
+ width: 20%;
+ margin-left: 50px;
+ padding: 12px 20px;
+ background-color: #f44336;
+ }
